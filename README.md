@@ -1,3 +1,8 @@
 # globalSolution
 Projeto de Html e Css do Global Solution
-Desenvolvido por Victor Augusto Passos de Moraes
+
+# Desenvolvedores
+Victor Augusto Passos de Moraes
+Rafael llll
+Fulampsadfasdfdsf
+asdfasas
